@@ -6,7 +6,7 @@
 - To identify the most popular pizza type among customers.
 
 ## **Dataset Overview**
-This dataset contains information of 49620 rows which includes:
+This dataset contains information of 48620 rows which includes:
 1. Order Date = Date on which orders are placed
 2. Order Time = Time at which orders are placed
 3. Pizza Name = Names of pizzas
