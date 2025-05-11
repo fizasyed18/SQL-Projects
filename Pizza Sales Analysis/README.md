@@ -32,7 +32,7 @@ This dataset contains information of 49620 rows which includes:
 
 ## **3. Recommendations**
 Based on the insights from the pizza sales, following recommendations are proposed:
-•	Optimize staffing during peak hours (especially 6-9 PM on weekends).
-•	Promote best-selling pizzas to increase average order size.
-•	Offer combo deals during low-sale periods (early afternoon or weekdays).
-•	Run targeted promotions for chicken and veggie categories to balance demand.
+- Optimize staffing during peak hours (especially 6-9 PM on weekends).
+- Promote best-selling pizzas to increase average order size.
+- Offer combo deals during low-sale periods (early afternoon or weekdays).
+- Run targeted promotions for chicken and veggie categories to balance demand.
