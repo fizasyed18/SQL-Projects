@@ -7,3 +7,10 @@
 - To analyze and visualize various aspects of pizza sales data to gain insights into business performance and understand key trends using SQL and power BI.
 - To identify peak sales months/hours/days.
 - To identify the most popular pizza type among customers.
+
+# **Analyzing Unicorn Companies**
+## **Objective**
+- To identify Global Trends in Unicorn Emergence
+- Determine Investor and Funding Analysis
+- To understand Industry Dynamics
+- To examine Return on Investment (ROI)
